@@ -1,0 +1,1 @@
+[Site para gerar HTAccess](https://www.htaccessredirect.net/)
