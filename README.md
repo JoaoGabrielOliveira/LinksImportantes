@@ -7,6 +7,9 @@
 [Documentation about mod_rewrite](https://httpd.apache.org/docs/2.4/rewrite/intro.html)
     - Documentation about mod_rewrite and how to use for write new rules for apache.
 
+[Pemitir HTTPS no localhost](https://qastack.com.br/programming/4221874/how-do-i-allow-https-for-apache-on-localhost)
+
+
 # Alogritimos
 
 ## Algoritimos de Ordenação
