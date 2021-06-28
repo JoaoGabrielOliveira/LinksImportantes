@@ -19,3 +19,6 @@ https://www.ime.usp.br/~pf/algoritmos/aulas/ordena.html
 https://www.ime.usp.br/~pf/algoritmos/aulas/quick.html
 
 # Estrutura de dados
+
+#Segurança Web
+[OpenSSL - Criar certificados SSL](https://openthreat.ro/create-your-own-custom-root-ca-with-openssl/)
